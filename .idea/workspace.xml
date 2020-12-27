@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3c94be1-79d4-4750-94f8-7bc5fb10599c" name="Default Changelist" comment="" />
+    <list default="true" id="a3c94be1-79d4-4750-94f8-7bc5fb10599c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,12 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -30,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Data/Project/DXC/Core/be-food-delivery-go" />
   </component>
   <component name="RunManager">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -62,29 +71,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="410" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606688331570">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="410" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606688331570" />
-    <state width="1865" height="153" key="GridCell.Tab.0.bottom" timestamp="1606692103611">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606692103611" />
-    <state width="1865" height="153" key="GridCell.Tab.0.center" timestamp="1606692103607">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="153" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606692103607" />
-    <state width="1865" height="153" key="GridCell.Tab.0.left" timestamp="1606692103607">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="153" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606692103607" />
-    <state width="1865" height="153" key="GridCell.Tab.0.right" timestamp="1606692103611">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="153" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606692103611" />
   </component>
 </project>
