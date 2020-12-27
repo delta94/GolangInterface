@@ -68,6 +68,14 @@ func main() {
 	hehe = haha
 	var hoho int
 	hoho = *hehe
+
+	var null *int
+	//*null = 10
+	unNull := 10
+	null = &unNull
+	point := null
+	var ok int
+	ok = *point
 	log.Println("*haha ", *haha)
 	log.Println("haha ", haha)
 	log.Println("&haha ", &haha)
@@ -75,6 +83,9 @@ func main() {
 	log.Println("*hehe ", *hehe)
 	log.Println("&hehe ", &hehe)
 	log.Println("hoho ", hoho+1)
+	log.Println("point ", point)
+	log.Println("ok ", ok)
+	log.Println("*null ", *null)
 
 	log.Println("")
 	log.Println("lam ", lam)
